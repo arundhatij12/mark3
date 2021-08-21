@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+font-family: 'Zen Tokyo Zoo', cursive;
+background-color: black;
+}
+
+.tg{
+    width: 6%;
+}
+
+.vg{
+    width: 6%;
+}
+
+.ig{
+    width: 5%;
+}
+
+root{
+    --primary-color: red;
+    --color1:#F5F5DC;
+}
+
+.pq{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: x-large;
+    color: white;
+}
+
+.uw{
+    font-size: 260%;
+    font-family: 'Anton', sans-serif;
+}
+
+.rt{
+    list-style: none;
+}
+
+.ot{
+    display: inline;
+}
+
+.am{
+    font-size: 200%;
+}
+
+.hero{
+    padding: 2rem ;
+}
+
+.hero .hero-img{
+    max-width: 500px;
+    display: block;
+    margin:auto;
+}
+
+.list-non-bullet{
+    list-style:none;
+}
+
+.navigation{
+    background-color: darkmagenta;
+    color: aliceblue;
+    padding: 6rem;
+    border-bottom-left-radius: 2rem;
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: 220%;
+}
+
+.navigation .nav-pills{
+    text-align: right;
+}
+
+.list-item-inline{
+    display: inline;
+    padding: 1rem 1.5rem;
+}
+
+.navigation .link{
+    color: white;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+.er{
+    text-align: center;
+}
+ 
+.container{
+    padding: 0rem 1rem;
+}
+
+.container-center{
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+
+.primary-link{
+    color:aliceblue;
+    font-size: large;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: 1px;
+}
+
+.section{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: medium;
+}
+
+.section h3{
+    text-align: center;
+    padding: 0.5rem;
+    color: lavender;
+}
+
+.section h4{
+    text-align: center;
+}
+
+ .ow{
+    background-color: orange;
+    color: black;
+}
+
+.pw{
+    background-color: rgb(245, 42, 16);
+    color: black;
+}
+
+.aw{
+    background-color:gold ;
+    color: black;
+}
+
+.sw{
+    background-color: green;
+    color: black;
+}
+
+.dw{
+    background-color: deepskyblue;
+    color: black;
+}
+
+.fw{
+    background-color:blue;
+    color: black;
+}
+
+.gw{
+    background-color:blueviolet;
+    color: black;
+}
+
+body{
+    color:rgb(236, 28, 236);
+}
+h1{
+    color:blueviolet;
+}
+
+.para{
+    color: rgb(136, 255, 0);
+}
